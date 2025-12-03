@@ -1,4 +1,6 @@
 # road-accident-analysis
+<img width="1376" height="774" alt="accident analysis DB" src="https://github.com/user-attachments/assets/1e03b5f1-ba0b-4881-abb9-71df4f0185e1" />
+
 📊 Road Accident Analysis – Power BI Dashboard
 
 This project presents an interactive Road Accident Analysis Dashboard built using Power BI.
